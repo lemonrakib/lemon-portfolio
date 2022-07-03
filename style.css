@@ -5,6 +5,7 @@ body {
 
 h1 {
     font-size: 50px;
+   
 }
 
 .orange-colour {
@@ -15,7 +16,16 @@ section{
 }
 .half-width{
     width: 50%;
+    margin-left: 2%;
 }
+.fast-section-paragraph{
+    text-align: justify;
+}
+
 .half-width, img{
     width: 100%;
+}
+.link-hire{
+    text-decoration: none;
+    background-color: lini;
 }
